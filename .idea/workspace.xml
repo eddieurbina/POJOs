@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44ee0848-420b-4557-962c-fc5c6af86e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/ArrayListCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/StringChains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/VerifyBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/inheritance/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/inheritance/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/ConstructorMethod/MainStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/ConstructorMethod/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eduardourbina/MatrixPaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/eduardourbina/InterpolingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardourbina/InterpolingStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/eduardourbina/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POJOs/com/eduardourbina/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/eduardourbina/StringChains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardourbina/StringChains.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,53 +22,39 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4786" />
+          <entry key="java" value="7880" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4786" />
+          <entry key="JAVA" value="7880" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/ArrayListCost.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/StringChains.java">
+        <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/MatrixPaths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="89">
+              <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -101,7 +82,10 @@
         <option value="$PROJECT_DIR$/src/com/eduardourbina/inheritance/Cow.java" />
         <option value="$PROJECT_DIR$/src/com/eduardourbina/inheritance/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/eduardourbina/ArrayListCost.java" />
+        <option value="$PROJECT_DIR$/src/com/eduardourbina/ConstructorMethod/MainStudent.java" />
+        <option value="$PROJECT_DIR$/src/com/eduardourbina/ConstructorMethod/Student.java" />
         <option value="$PROJECT_DIR$/src/com/eduardourbina/StringChains.java" />
+        <option value="$PROJECT_DIR$/src/com/eduardourbina/MatrixPaths.java" />
       </list>
     </option>
   </component>
@@ -118,9 +102,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +130,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534802049545" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534841865427" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,22 +144,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListCost">
+  <component name="RunManager" selected="Application.MatrixPaths">
     <configuration name="ArrayListCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.eduardourbina.ArrayListCost" />
-      <module name="POJOs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eduardourbina.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterpolingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.eduardourbina.InterpolingStrings" />
       <module name="POJOs" />
       <extension name="coverage">
         <pattern>
@@ -200,18 +171,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.eduardourbina.Main" />
+    <configuration name="MainStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eduardourbina.ConstructorMethod.MainStudent" />
       <module name="POJOs" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eduardourbina.ConstructorMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.eduardourbina.VerifyBrackets" />
+    <configuration name="MatrixPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eduardourbina.MatrixPaths" />
+      <module name="POJOs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eduardourbina.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringChains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eduardourbina.StringChains" />
       <module name="POJOs" />
       <extension name="coverage">
         <pattern>
@@ -224,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.InterpolingStrings" />
-      <item itemvalue="Application.VerifyBrackets" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.ArrayListCost" />
+      <item itemvalue="Application.MainStudent" />
+      <item itemvalue="Application.StringChains" />
+      <item itemvalue="Application.MatrixPaths" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixPaths" />
+        <item itemvalue="Application.StringChains" />
+        <item itemvalue="Application.MainStudent" />
         <item itemvalue="Application.ArrayListCost" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.VerifyBrackets" />
-        <item itemvalue="Application.InterpolingStrings" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -256,45 +243,39 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295082" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/inheritance/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -368,9 +349,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/ConstructorMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/ConstructorMethod/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/ConstructorMethod/MainStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#365#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/StringChains.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/ArrayListCost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="327">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -378,13 +398,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/StringChains.java">
+    <entry file="file://$PROJECT_DIR$/src/com/eduardourbina/MatrixPaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="89">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
         </state>
       </provider>
     </entry>
